@@ -1,4 +1,4 @@
-package com.kestreldigital.conjuror;
+package com.kestreldigital.conjuror.utils;
 
 import java.util.List;
 import java.util.Random;
