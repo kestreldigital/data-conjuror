@@ -116,6 +116,9 @@
                                 <goals>
                                     <goal>sign</goal>
                                 </goals>
+                                <configuration>
+                                    <keyname>2637FDEA</keyname>
+                                </configuration>
                             </execution>
                         </executions>
                     </plugin>
